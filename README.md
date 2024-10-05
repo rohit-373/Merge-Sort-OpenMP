@@ -1,4 +1,4 @@
-Parallel merge sort with OpenMP:
+# Parallel merge sort with OpenMP:
 Explore how OpenMP, a powerful API supporting parallel processing in languages like C, C++, and Python, can make merge sort more efficient.
 - Implements parallel merge sort: Uses OpenMP to split sorting tasks.
 - Sequential merge sort base case: Switches to this for smaller subarrays.
